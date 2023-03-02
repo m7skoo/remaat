@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776334758918",
+    "project_id": "remaat-2ccd7",
+    "storage_bucket": "remaat-2ccd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776334758918:android:580fe93a2fb65598dc1f87",
+        "android_client_info": {
+          "package_name": "com.company.coldt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776334758918-pl3gmj5tao05d70lf5ksgvhrkdvv696l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY_Z5vNVEANji13YvCWoA5IWTfphKZjEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776334758918-pl3gmj5tao05d70lf5ksgvhrkdvv696l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
